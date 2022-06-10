@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello world';
+$config = require 'config.php';
