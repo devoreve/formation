@@ -19,3 +19,11 @@ Git est un outil de versionning. C'est un outil qui va vous permettre à la fois
 Git s'utilise en ligne de commande mais il existe des outils graphiques (notamment intégrés aux ide).
 
 ### Les commandes principales
+
+* git init
+* git clone
+* git status
+* git add
+* git commit
+* git push
+* git pull
